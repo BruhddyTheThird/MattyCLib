@@ -29,7 +29,7 @@ def InteriorProduct(Array1, Array2):
     return productExpr
 def CrossProduct(Array1, Array2):
     """
-    Computes the cross product of two 2D or 3D vectors.
+    Computes the cross product of two 2D or 3D vectors, in Cartesian Co-ordinates.
 
     Parameters:
     Array1 (list or sympy.Array): The first vector.
@@ -171,7 +171,8 @@ def Curl(Field,Point=None,VarList=None):
     if Point is None:
         return curl_array
     else:
-        curlEval = [(k.subs(i,j)) for i,j,k in zip(VarList,Point,curl_array)]
+        subs = {VarList[i]:Point[i] for i in range(len(VarList))}
+        curlEval=[i.subs(subs) for i in curl_array]
         return curlEval
 def FindPotentialFnction(Field,VarList=None):
     if Curl(Field,VarList=VarList).tolist()!=[0]*len(Field):
@@ -190,8 +191,7 @@ def ParametrizeExpr(Expression,MappedArray,VarList=None):
     """
     Substitutes variables in an expression using a mapped array or variable list.
 
-    This function replaces the symbols in the expression with the corresponding values
-    from the MappedArray or VarList.
+    This function replaces the symbols in the expression corresponding to VarList with the values in MappedArray.
 
     Parameters:
     Expression (sympy expression): The mathematical expression to be parametrized.
@@ -206,16 +206,16 @@ def ParametrizeExpr(Expression,MappedArray,VarList=None):
 
     Example:
     >>> Expression = x**2 + y**2
-    >>> MappedArray = [1, 2]
+    >>> MappedArray = [u, v]
     >>> ParametrizeExpr(Expression, MappedArray)
-    5
+    u**2+v**2
     """
     if VarList is not None:
         if len(MappedArray) != len(VarList):
             raise ValueError('MappedArray and VarList must have the same length.')
         return Expression.subs(zip(VarList, MappedArray))
     return Expression.subs(zip(Expression.free_symbols, MappedArray))
-def CountourInt(Field,VarList,VarBounds=None,Eval=False,Hard=True,ParaField=None,ParVar=None,ParVars=None,ParVarBounds=None,):
+def CountourInt(Field,VarList,VarBounds=None,Eval=False,Hard=True,ParaField=None,ParVar=None,ParVars=None,ParVarBounds=None,Reversed=False):
     """
     Computes the contour integral for a given vector field.
 
@@ -226,7 +226,7 @@ def CountourInt(Field,VarList,VarBounds=None,Eval=False,Hard=True,ParaField=None
     Field (list of sympy expressions): The components of the vector field.
     VarList (list of sympy symbols): The variables in the vector field.
     VarBounds (list, optional): The bounds for the integration variables.
-    Eval (bool, optional): Whether to evaluate the integral immediately. Defaults to False.
+    Eval (bool, optional): Whether to evaluate the integral. Defaults to False.
     Hard (bool, optional): Whether to use a parametrized approach or a simpler one. Defaults to True.
     ParaField (list, optional): The parametrized field for the curve.
     ParVar (sympy symbol, optional): The parameter variable used for parametrization.
@@ -235,41 +235,44 @@ def CountourInt(Field,VarList,VarBounds=None,Eval=False,Hard=True,ParaField=None
 
     Returns:
     sympy expression: The contour integral expression or its evaluated result.
-
-    Example:
-    >>> Field = [x**2, y**2, z**2]
-    >>> VarList = [x, y]
-    >>> CountourInt(Field, VarList, Eval=True)
-    Integral result
     """
-    if Hard == True and ParVars == None:
+    if Hard and ParVars == None:
         ParametrizedField = []
         for i in Field:
             ParametrizedField.append(i.subs(zip(VarList,ParaField)))
-        integrand = 0
-        for i in range(len(ParaField)):
-            integrand = integrand + ParametrizedField[i]*sp.diff(ParaField[i],ParVar)
+        integrand = sum([ParametrizedField[i]*sp.diff(ParaField[i],ParVar) for i in range(len(ParaField))])
+        if Reversed:
+            integrand*=-1
         hardIntegral = sp.Integral(integrand,(ParVar,ParVarBounds[0]))
         if Eval == False:
             print('Integrand for CounterInt =\n',integrand)
             return hardIntegral
-        else:
-            return hardIntegral.doit()
+        print('Integrand for CounterInt =\n',integrand)
+        return hardIntegral.doit()
     else:
         if VarBounds==None:
-            StokesIntegrand = (InteriorProduct(Curl(Field,VarList=VarList),[1,1,1])).subs(zip(VarList,ParaField))
+            NormalInt = CrossProduct([diff(i,ParVars[0]) for i in ParaField],[diff(i,ParVars[1]) for i in ParaField])
+            Field = Curl(Field,Point=None, VarList=VarList)
+            ParametrizedField = [i.subs(zip(VarList,ParaField)) for i in Field]
+            StokesIntegrand = InteriorProduct(ParametrizedField,NormalInt)
             if ParaField == [sp.Symbol('r')*sp.cos(sp.Symbol('theta')),sp.Symbol('r')*sp.sin(sp.Symbol('theta'))] or ParaField == [sp.Symbol('r')*sp.cos(sp.Symbol('theta')),sp.Symbol('r')*sp.sin(sp.Symbol('theta')),sp.Symbol('z')]:
                 StokesIntegrand *= sp.Symbol('r')
+            if Reversed:
+                StokesIntegrand *= -1
             StokesIntegral = sp.Integral(sp.simplify(StokesIntegrand),(ParVars[0],ParVarBounds[0]),(ParVars[1],ParVarBounds[1]))
             if Eval:
                 return StokesIntegral.doit()
             print('Integrand for ContourInt =\n',StokesIntegrand)
             return StokesIntegral
         StokesIntegrand = InteriorProduct(Curl(Field,VarList=VarList),[1,1,1])
+        if Reversed:
+            StokesIntegrand *=-1
+        
         StokesIntegral = sp.Integral(StokesIntegrand,(VarList[0],VarBounds[0]),(VarList[1],VarBounds[1]))
         if Eval == False:
             print('Integrand for ContourInt =\n',StokesIntegrand)
             return StokesIntegral
+        print('Integrand for ContourInt =\n',StokesIntegrand)
         return StokesIntegral.doit()
 def SurfArea(Surface,VarList,ParaField=list|None,ParVarList=list|None,Eval=True,ParVarBounds=list|None,Easy=False,Left=True,IntExpr=None):
     """

@@ -1,0 +1,2010 @@
+The data type of the stored user IDs is int64.
+The data type of the stored dates is datetime64[ns]
+Participant #1 is Captain Marvel.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is A Squad of Helldivers.
+The users who voted for this participant are: 
+ ['Matrim', 'Mahoraga', 'FrozenReality', 'Mees', 'Jackie'] 
+This participant recieved 50% of the total vote.
+Participant #3 is Fred Flintstone.
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 10% of the total vote.
+Participant #4 is Ronku’s Evil Clone.
+The users who voted for this participant are: 
+ [None, 'LuigiDawg', 'Milo', 'Ronku'] 
+This participant recieved 40% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['A Squad of Helldivers'].
+Participant #1 is Hideo Kojima.
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'LuigiDawg', 'Ronku', 'Chaspyr'] 
+This participant recieved 56% of the total vote.
+Participant #2 is Omega Flowey.
+The users who voted for this participant are: 
+ ['MangleSlash', 'FrozenReality', 'Jackie'] 
+This participant recieved 33% of the total vote.
+Participant #3 is Son Goku.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is God.
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 11% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Hideo Kojima'].
+Participant #1 is Parkzer (DougDoug).
+The users who voted for this participant are: 
+ ['FrozenReality', 'Ronku'] 
+This participant recieved 22% of the total vote.
+Participant #2 is Phoenix Wright.
+The users who voted for this participant are: 
+ ['LuigiDawg', 'MangleSlash', 'Jackie'] 
+This participant recieved 33% of the total vote.
+Participant #3 is Sir Topham Hatt (Thomas and Friends).
+The users who voted for this participant are: 
+ ['Kibblestone', 'InfiNate', 'Milo', 'Chaspyr'] 
+This participant recieved 44% of the total vote.
+Participant #4 is Kazama Kiryu.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Sir Topham Hatt (Thomas and Friends)'].
+Participant #1 is Mario.
+The users who voted for this participant are: 
+ ['Kibblestone', 'LuigiDawg'] 
+This participant recieved 22% of the total vote.
+Participant #2 is Super Mario.
+The users who voted for this participant are: 
+ ['MangleSlash', 'Mees'] 
+This participant recieved 22% of the total vote.
+Participant #3 is Mario, the Man.
+The users who voted for this participant are: 
+ ['InfiNate', 'FrozenReality'] 
+This participant recieved 22% of the total vote.
+Participant #4 is Mario, the Idea.
+The users who voted for this participant are: 
+ ['Matrim', 'Jackie', 'Ronku'] 
+This participant recieved 33% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Mario, the Idea'].
+Participant #1 is The Grinch.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Shadow the Hedgehog.
+The users who voted for this participant are: 
+ ['Kibblestone', 'InfiNate', 'Mahoraga', 'MangleSlash', 'FrozenReality', 'Ronku'] 
+This participant recieved 60% of the total vote.
+Participant #3 is Monark and Jarno.
+The users who voted for this participant are: 
+ ['Mees'] 
+This participant recieved 10% of the total vote.
+Participant #4 is The IRS.
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'Jackie'] 
+This participant recieved 30% of the total vote.
+First place achieved 6 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Shadow the Hedgehog'].
+Participant #1 is Miles “Tails” Prower.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Milo'] 
+This participant recieved 20% of the total vote.
+Participant #2 is Knuckles the Echidna.
+The users who voted for this participant are: 
+ ['LuigiDawg'] 
+This participant recieved 10% of the total vote.
+Participant #3 is Mephiles.
+The users who voted for this participant are: 
+ ['Mahoraga', 'Ronku', 'Chaspyr'] 
+This participant recieved 30% of the total vote.
+Participant #4 is Space Colony ARK.
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'MangleSlash', 'Jackie'] 
+This participant recieved 40% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Space Colony ARK'].
+Participant #1 is Jack Sparrow.
+The users who voted for this participant are: 
+ ['Kibblestone', 'MangleSlash', 'Ronku'] 
+This participant recieved 33% of the total vote.
+Participant #2 is Samurai Jack.
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'Milo', 'Mees'] 
+This participant recieved 44% of the total vote.
+Participant #3 is Jack Horner.
+The users who voted for this participant are: 
+ ['FrozenReality', 'Jackie'] 
+This participant recieved 22% of the total vote.
+Participant #4 is Jack In The Box (the fast food chain).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Samurai Jack'].
+Participant #1 is Walt Disney.
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 10% of the total vote.
+Participant #2 is Great King of Evil Ganondorf.
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'LuigiDawg', 'Mees'] 
+This participant recieved 40% of the total vote.
+Participant #3 is DIO Brando.
+The users who voted for this participant are: 
+ ['MangleSlash', 'Chaspyr'] 
+This participant recieved 20% of the total vote.
+Participant #4 is The Beatles (but actual Beetles).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Milo', 'Ronku'] 
+This participant recieved 30% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Great King of Evil Ganondorf'].
+Participant #1 is Ryder (Paw Patrol).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Dr. Bowser.
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'FrozenReality', 'Ronku'] 
+This participant recieved 44% of the total vote.
+Participant #3 is Sniper (Team Fortress 2).
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 11% of the total vote.
+Participant #4 is 4 Glasses of Wine (3 of them are Poisoned).
+The users who voted for this participant are: 
+ ['InfiNate', 'MangleSlash', 'Mees', 'Jackie'] 
+This participant recieved 44% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Dr. Bowser', '4 Glasses of Wine (3 of them are Poisoned)'].
+Participant #1 is Every main character in Big Bang Theory.
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 9% of the total vote.
+Participant #2 is Silver the Hedgehog.
+The users who voted for this participant are: 
+ ['InfiNate', 'Milo', 'MangleSlash', 'Mees', 'Ronku'] 
+This participant recieved 45% of the total vote.
+Participant #3 is Pac-Man.
+The users who voted for this participant are: 
+ ['FrozenReality'] 
+This participant recieved 9% of the total vote.
+Participant #4 is The Heat Death of the Universe.
+The users who voted for this participant are: 
+ ['Matrim', 'Honch', 'LuigiDawg', 'Jackie'] 
+This participant recieved 36% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Silver the Hedgehog'].
+Participant #1 is All of Mystery Incorporated.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Milo'] 
+This participant recieved 20% of the total vote.
+Participant #2 is Mario (wearing a Tuxedo).
+The users who voted for this participant are: 
+ ['Honch', 'LuigiDawg', 'Jackie'] 
+This participant recieved 30% of the total vote.
+Participant #3 is Dr. George Claw (Inspector Gadget).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is TF2 Scout's Search History.
+The users who voted for this participant are: 
+ ['Matrim', 'Mahoraga', 'MangleSlash', 'Mees', 'Ronku'] 
+This participant recieved 50% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ["TF2 Scout's Search History"].
+Participant #1 is Barack Obama.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'LuigiDawg'] 
+This participant recieved 38% of the total vote.
+Participant #2 is Naruto.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is Charizard.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is Option 4.
+The users who voted for this participant are: 
+ ['Milo', 'FrozenReality', 'Mees', 'Jackie', 'Ronku'] 
+This participant recieved 62% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Option 4'].
+Participant #1 is Boris Johnson.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Spider Man.
+The users who voted for this participant are: 
+ ['Mahoraga', 'FrozenReality', 'Mees', 'Jackie'] 
+This participant recieved 40% of the total vote.
+Participant #3 is Chaspyr.
+The users who voted for this participant are: 
+ ['Milo', 'Ronku'] 
+This participant recieved 20% of the total vote.
+Participant #4 is Mordecai and Rigby.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'LuigiDawg', 'MangleSlash'] 
+This participant recieved 40% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Spider Man', 'Mordecai and Rigby'].
+Participant #1 is Rosalina.
+The users who voted for this participant are: 
+ ['InfiNate', 'FrozenReality'] 
+This participant recieved 22% of the total vote.
+Participant #2 is Luigi.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'LuigiDawg', 'MangleSlash', 'Chaspyr'] 
+This participant recieved 56% of the total vote.
+Participant #3 is Dr. Mario.
+The users who voted for this participant are: 
+ ['Honch', 'Ronku'] 
+This participant recieved 22% of the total vote.
+Participant #4 is King K. Rool.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Luigi'].
+Participant #1 is Jackie Chan.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Mees', 'Chaspyr'] 
+This participant recieved 27% of the total vote.
+Participant #2 is Jacky Bryant (Virtua Fighter).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is JackieTheMace (with an AK47).
+The users who voted for this participant are: 
+ ['Toadeight', 'Matrim', 'Honch', 'LuigiDawg', 'Milo', 'MangleSlash', 'Jackie', 'Ronku'] 
+This participant recieved 73% of the total vote.
+Participant #4 is Jackie (The 2012 Dutch Film).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+First place achieved 8 votes.
+The distance between first and second place is 5 votes.
+The victor(s) is/are
+ ['JackieTheMace (with an AK47)'].
+Participant #1 is Tarzan.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Waluigi (with a Golf Club).
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'MangleSlash', 'FrozenReality', 'Monark', 'Mees', 'Chaspyr'] 
+This participant recieved 78% of the total vote.
+Participant #3 is A horde of Zombies.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is Luigi’s Wardrobe Given Life.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Ronku'] 
+This participant recieved 22% of the total vote.
+First place achieved 7 votes.
+The distance between first and second place is 5 votes.
+The victor(s) is/are
+ ['Waluigi (with a Golf Club)'].
+Participant #1 is Taylor Swift.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Perfect Cell.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is Bob the Builder.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'InfiNate', 'Jackie', 'Ronku'] 
+This participant recieved 62% of the total vote.
+Participant #4 is Amber Grey Dining Chair.
+The users who voted for this participant are: 
+ ['LuigiDawg', 'MangleSlash', 'Luc'] 
+This participant recieved 38% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Bob the Builder'].
+Participant #1 is Pepsiman.
+The users who voted for this participant are: 
+ [None, 'Matrim', 'LuigiDawg', 'Mahoraga', 'MangleSlash', 'FrozenReality', 'Mees'] 
+This participant recieved 64% of the total vote.
+Participant #2 is Kirby (the Pink Puffball).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is Kibblestone on a Tricycle.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Ronku', 'Chaspyr'] 
+This participant recieved 27% of the total vote.
+Participant #4 is Big Ben (but it’s a mech).
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 9% of the total vote.
+First place achieved 7 votes.
+The distance between first and second place is 4 votes.
+The victor(s) is/are
+ ['Pepsiman'].
+Participant #1 is Mumbo Jumbo (Minecraft).
+The users who voted for this participant are: 
+ ['MangleSlash', 'FrozenReality', 'Ronku'] 
+This participant recieved 27% of the total vote.
+Participant #2 is Sans Undertale.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Mees', 'Jackie'] 
+This participant recieved 27% of the total vote.
+Participant #3 is Ronku D. Onkulous.
+The users who voted for this participant are: 
+ ['InfiNate', 'LuigiDawg', 'Chaspyr'] 
+This participant recieved 27% of the total vote.
+Participant #4 is A man with an Egg for a Head.
+The users who voted for this participant are: 
+ ['Matrim', 'Blaze'] 
+This participant recieved 18% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Mumbo Jumbo (Minecraft)', 'Sans Undertale', 'Ronku D. Onkulous'].
+Participant #1 is Shaquille O’Neal.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Honch', 'Chaspyr'] 
+This participant recieved 30% of the total vote.
+Participant #2 is Wario (Cowboy Outfit).
+The users who voted for this participant are: 
+ ['LuigiDawg'] 
+This participant recieved 10% of the total vote.
+Participant #3 is A man in a Forklift with a Pistol.
+The users who voted for this participant are: 
+ ['Matrim', 'MangleSlash', 'FrozenReality', 'Ronku'] 
+This participant recieved 40% of the total vote.
+Participant #4 is 1 Billion Beers.
+The users who voted for this participant are: 
+ ['Mees', 'Jackie'] 
+This participant recieved 20% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['A man in a Forklift with a Pistol'].
+Participant #1 is Joe Biden.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'LuigiDawg', 'Ronku'] 
+This participant recieved 40% of the total vote.
+Participant #2 is Sora (Kingdom Hearts Chain of Memories).
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 10% of the total vote.
+Participant #3 is Every Cat in Finland.
+The users who voted for this participant are: 
+ ['Honch', 'Mees', 'Chaspyr'] 
+This participant recieved 30% of the total vote.
+Participant #4 is A Brick (painted Yellow).
+The users who voted for this participant are: 
+ ['Milo', 'FrozenReality'] 
+This participant recieved 20% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Joe Biden'].
+Participant #1 is Batman.
+The users who voted for this participant are: 
+ ['Mahoraga', 'Milo', 'FrozenReality', 'Jackie', 'Quokka'] 
+This participant recieved 45% of the total vote.
+Participant #2 is Robin.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is The Joker.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is Man.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'LuigiDawg', 'MangleSlash', 'Mees', 'Ronku'] 
+This participant recieved 55% of the total vote.
+First place achieved 6 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Man'].
+Participant #1 is Steve Harvey.
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'Honch', 'Ronku', 'Chaspyr'] 
+This participant recieved 45% of the total vote.
+Participant #2 is Steve (Minecraft) (Played by Jack Black).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Milo', 'Mees', 'Jackie'] 
+This participant recieved 36% of the total vote.
+Participant #3 is Steven Strange.
+The users who voted for this participant are: 
+ ['FrozenReality'] 
+This participant recieved 9% of the total vote.
+Participant #4 is Steve (the Red Pikmin).
+The users who voted for this participant are: 
+ ['MangleSlash'] 
+This participant recieved 9% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Steve Harvey'].
+Participant #1 is Borat.
+The users who voted for this participant are: 
+ ['Kibblestone', 'InfiNate', 'Honch'] 
+This participant recieved 30% of the total vote.
+Participant #2 is Ryomen Sukuna.
+The users who voted for this participant are: 
+ ['Mahoraga', 'FrozenReality', 'Jackie', 'Ronku'] 
+This participant recieved 40% of the total vote.
+Participant #3 is Dry Bowser.
+The users who voted for this participant are: 
+ ['LuigiDawg', 'Milo'] 
+This participant recieved 20% of the total vote.
+Participant #4 is The MSU Hubbard Hall 10th Floor Fire Alarm.
+The users who voted for this participant are: 
+ ['Matrim'] 
+This participant recieved 10% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Ryomen Sukuna'].
+Participant #1 is Louis Armstrong.
+The users who voted for this participant are: 
+ ['Kibblestone', 'LuigiDawg', 'Honch', 'Mees'] 
+This participant recieved 40% of the total vote.
+Participant #2 is Revali (Breath of the Wild).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is Mecha-Godzilla.
+The users who voted for this participant are: 
+ ['Mahoraga', 'MangleSlash', 'FrozenReality', 'Jackie'] 
+This participant recieved 40% of the total vote.
+Participant #4 is The Call of the Void.
+The users who voted for this participant are: 
+ ['Matrim', 'Ronku'] 
+This participant recieved 20% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Louis Armstrong', 'Mecha-Godzilla'].
+Participant #1 is Smokey Bear.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Milo'] 
+This participant recieved 22% of the total vote.
+Participant #2 is Solid Snake (Metal Gear Solid).
+The users who voted for this participant are: 
+ ['InfiNate', 'LuigiDawg', 'Honch', 'FrozenReality', 'Mees'] 
+This participant recieved 56% of the total vote.
+Participant #3 is Napoleon Bonaparte.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is Captain Planet.
+The users who voted for this participant are: 
+ ['Matrim', 'Ronku'] 
+This participant recieved 22% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Solid Snake (Metal Gear Solid)'].
+Participant #1 is He-Man.
+The users who voted for this participant are: 
+ ['Honch'] 
+This participant recieved 8% of the total vote.
+Participant #2 is Todo Aoi.
+The users who voted for this participant are: 
+ ['Chaspyr'] 
+This participant recieved 8% of the total vote.
+Participant #3 is Dr. Goomba Tower.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is LeBron James (with the Death Note).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'InfiNate', 'LuigiDawg', 'Mahoraga', 'Milo', 'MangleSlash', 'FrozenReality', 'Jackie', 'Ronku'] 
+This participant recieved 83% of the total vote.
+First place achieved 10 votes.
+The distance between first and second place is 9 votes.
+The victor(s) is/are
+ ['LeBron James (with the Death Note)'].
+Participant #1 is David Blaine.
+The users who voted for this participant are: 
+ ['Ronku'] 
+This participant recieved 11% of the total vote.
+Participant #2 is the Dog from Duck Hunt.
+The users who voted for this participant are: 
+ ['Honch', 'MangleSlash', 'Mees'] 
+This participant recieved 33% of the total vote.
+Participant #3 is Stan Smith (American Dad).
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'Luc'] 
+This participant recieved 33% of the total vote.
+Participant #4 is Sonichu.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Jackie'] 
+This participant recieved 22% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['the Dog from Duck Hunt', 'Stan Smith (American Dad)'].
+Participant #1 is DougDoug's Chair.
+The users who voted for this participant are: 
+ ['Kibblestone', 'LuigiDawg'] 
+This participant recieved 22% of the total vote.
+Participant #2 is Joseph Joestar.
+The users who voted for this participant are: 
+ ['Honch', 'MangleSlash', 'Jackie', 'Luc'] 
+This participant recieved 44% of the total vote.
+Participant #3 is A Man with an Infinite Supply of Boomerangs.
+The users who voted for this participant are: 
+ ['Mees'] 
+This participant recieved 11% of the total vote.
+Participant #4 is A dog trained to fight via the Warrior Cats book series.
+The users who voted for this participant are: 
+ ['Matrim', 'Ronku'] 
+This participant recieved 22% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Joseph Joestar'].
+Participant #1 is Goofy.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Honch'] 
+This participant recieved 22% of the total vote.
+Participant #2 is Minnie Mouse.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is Scrooge McDuck.
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'MangleSlash', 'Jackie', 'Ronku'] 
+This participant recieved 56% of the total vote.
+Participant #4 is Steamboat Willie (the entire animation).
+The users who voted for this participant are: 
+ ['InfiNate', 'Milo'] 
+This participant recieved 22% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Scrooge McDuck'].
+Participant #1 is Thomas Edison.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Thomas the Tank Engine.
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'Honch', 'MangleSlash'] 
+This participant recieved 44% of the total vote.
+Participant #3 is Thomas "TomSka" Ridgewell.
+The users who voted for this participant are: 
+ ['Kibblestone', 'LuigiDawg', 'Jackie', 'Ronku'] 
+This participant recieved 44% of the total vote.
+Participant #4 is Thomas algorithm.
+The users who voted for this participant are: 
+ ['Mees'] 
+This participant recieved 11% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Thomas the Tank Engine', 'Thomas "TomSka" Ridgewell'].
+Participant #1 is Ben Stiller.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim'] 
+This participant recieved 22% of the total vote.
+Participant #2 is Squid Sisters (Splatoon).
+The users who voted for this participant are: 
+ ['FrozenReality'] 
+This participant recieved 11% of the total vote.
+Participant #3 is LucTheSlug (with a Crossbow).
+The users who voted for this participant are: 
+ ['Honch', 'Milo', 'MangleSlash', 'Jackie', 'Ronku'] 
+This participant recieved 56% of the total vote.
+Participant #4 is A Snake with a Knife.
+The users who voted for this participant are: 
+ ['LuigiDawg'] 
+This participant recieved 11% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['LucTheSlug (with a Crossbow)'].
+Participant #1 is Stone Cold Steve Austin.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is A Joker Card (Balatro).
+The users who voted for this participant are: 
+ ['InfiNate', 'Honch', 'FrozenReality', 'Jackie'] 
+This participant recieved 50% of the total vote.
+Participant #3 is 8 Jaguars.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is Goku (with a Heart Virus).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'LuigiDawg', 'Milo'] 
+This participant recieved 50% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['A Joker Card (Balatro)', 'Goku (with a Heart Virus)'].
+Participant #1 is Micheal Jackson.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Kratos.
+The users who voted for this participant are: 
+ ['FrozenReality'] 
+This participant recieved 11% of the total vote.
+Participant #3 is Walter White.
+The users who voted for this participant are: 
+ ['LuigiDawg'] 
+This participant recieved 11% of the total vote.
+Participant #4 is Seven Balding Men wielding planks of wood.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'Milo', 'MangleSlash', 'Blaze', 'Jackie', 'Ronku'] 
+This participant recieved 78% of the total vote.
+First place achieved 7 votes.
+The distance between first and second place is 6 votes.
+The victor(s) is/are
+ ['Seven Balding Men wielding planks of wood'].
+Participant #1 is Samuel L Jackson.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'InfiNate', 'Ronku'] 
+This participant recieved 36% of the total vote.
+Participant #2 is Shovel Knight.
+The users who voted for this participant are: 
+ ['Honch', 'Mees'] 
+This participant recieved 18% of the total vote.
+Participant #3 is Masahiro Sakurai.
+The users who voted for this participant are: 
+ ['LuigiDawg'] 
+This participant recieved 9% of the total vote.
+Participant #4 is Mug Root Beer.
+The users who voted for this participant are: 
+ ['Milo', 'MangleSlash', 'Monark', 'Jackie'] 
+This participant recieved 36% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Samuel L Jackson', 'Mug Root Beer'].
+Participant #1 is Charlie Chaplin.
+The users who voted for this participant are: 
+ ['Honch', 'Mees'] 
+This participant recieved 25% of the total vote.
+Participant #2 is Surge the Tenrec.
+The users who voted for this participant are: 
+ ['Kibblestone', 'MangleSlash', 'Ronku'] 
+This participant recieved 38% of the total vote.
+Participant #3 is Tony Hawk.
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg'] 
+This participant recieved 25% of the total vote.
+Participant #4 is Guest Mii C.
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 12% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Surge the Tenrec'].
+Participant #1 is David Hasselhoff.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Jackie'] 
+This participant recieved 22% of the total vote.
+Participant #2 is Josuke Higaskita 8.
+The users who voted for this participant are: 
+ ['Matrim', 'Honch'] 
+This participant recieved 22% of the total vote.
+Participant #3 is Kool-Aid Man.
+The users who voted for this participant are: 
+ ['InfiNate', 'LuigiDawg', 'MangleSlash', 'Mees', 'Ronku'] 
+This participant recieved 56% of the total vote.
+Participant #4 is The Pacific Ocean.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Kool-Aid Man'].
+Participant #1 is Moses.
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 11% of the total vote.
+Participant #2 is Satan.
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'Ronku'] 
+This participant recieved 33% of the total vote.
+Participant #3 is Every Animal on Noah’s Ark.
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 11% of the total vote.
+Participant #4 is Bob the Tomato.
+The users who voted for this participant are: 
+ ['Honch', 'LuigiDawg', 'Milo', 'MangleSlash'] 
+This participant recieved 44% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Bob the Tomato'].
+Participant #1 is Will Smith.
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 8% of the total vote.
+Participant #2 is William Afton.
+The users who voted for this participant are: 
+ [None, 'Matrim', 'FrozenReality', 'Monark'] 
+This participant recieved 33% of the total vote.
+Participant #3 is William Anthonio Zeppeli.
+The users who voted for this participant are: 
+ ['Honch'] 
+This participant recieved 8% of the total vote.
+Participant #4 is A Dollar Bill (Bill is short for William).
+The users who voted for this participant are: 
+ ['LuigiDawg', 'Milo', 'MangleSlash', 'Mees', 'Jackie', 'Ronku'] 
+This participant recieved 50% of the total vote.
+First place achieved 6 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['A Dollar Bill (Bill is short for William)'].
+Participant #1 is Jerma985 (with a pack of rats).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim'] 
+This participant recieved 20% of the total vote.
+Participant #2 is Fortnite Battle Bus with 5 random characters inside.
+The users who voted for this participant are: 
+ ['Ronku'] 
+This participant recieved 10% of the total vote.
+Participant #3 is Dr. Doofenshmirtz.
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 10% of the total vote.
+Participant #4 is All of Sonic 3 (the movie) vocoded to Megalovania.
+The users who voted for this participant are: 
+ [None, 'InfiNate', 'LuigiDawg', 'Honch', 'Milo', 'MangleSlash'] 
+This participant recieved 60% of the total vote.
+First place achieved 6 votes.
+The distance between first and second place is 4 votes.
+The victor(s) is/are
+ ['All of Sonic 3 (the movie) vocoded to Megalovania'].
+Participant #1 is Yuji Naka.
+The users who voted for this participant are: 
+ ['Ronku'] 
+This participant recieved 8% of the total vote.
+Participant #2 is Pajama Sam.
+The users who voted for this participant are: 
+ [None] 
+This participant recieved 8% of the total vote.
+Participant #3 is Coughing Baby.
+The users who voted for this participant are: 
+ [None, 'Milo', 'FrozenReality', 'Mees'] 
+This participant recieved 33% of the total vote.
+Participant #4 is Penguins of Madagascar.
+The users who voted for this participant are: 
+ ['Kibblestone', 'InfiNate', 'Honch', 'LuigiDawg', 'MangleSlash', 'Jackie'] 
+This participant recieved 50% of the total vote.
+First place achieved 6 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Penguins of Madagascar'].
+Participant #1 is Buddy the Elf.
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 11% of the total vote.
+Participant #2 is Ichigo (Bleach).
+The users who voted for this participant are: 
+ ['Ronku'] 
+This participant recieved 11% of the total vote.
+Participant #3 is Brock (Pokémon).
+The users who voted for this participant are: 
+ ['Honch', 'LuigiDawg', 'MangleSlash'] 
+This participant recieved 33% of the total vote.
+Participant #4 is A man in a convertible with 17 Empty Pizza Boxes.
+The users who voted for this participant are: 
+ [None, 'Matrim', 'Mees', 'Jackie'] 
+This participant recieved 44% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['A man in a convertible with 17 Empty Pizza Boxes'].
+Participant #1 is The Pope.
+The users who voted for this participant are: 
+ ['LuigiDawg', 'Honch'] 
+This participant recieved 25% of the total vote.
+Participant #2 is Doomguy.
+The users who voted for this participant are: 
+ ['InfiNate', 'Jackie'] 
+This participant recieved 25% of the total vote.
+Participant #3 is Jon Arbuckle.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim'] 
+This participant recieved 25% of the total vote.
+Participant #4 is Coconut Mall.
+The users who voted for this participant are: 
+ ['Milo', 'MangleSlash'] 
+This participant recieved 25% of the total vote.
+First place achieved 2 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['The Pope', 'Doomguy', 'Jon Arbuckle', 'Coconut Mall'].
+Participant #1 is President Richard Nixon.
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 14% of the total vote.
+Participant #2 is Crash Bandicoot.
+The users who voted for this participant are: 
+ ['Honch', 'LuigiDawg', 'Jackie'] 
+This participant recieved 43% of the total vote.
+Participant #3 is Soldier Team Fortress 2.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is Every contestant to ever be on Jeopardy.
+The users who voted for this participant are: 
+ ['Matrim', 'MangleSlash', 'Mees'] 
+This participant recieved 43% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Crash Bandicoot', 'Every contestant to ever be on Jeopardy'].
+Participant #1 is Dwayne “The Rock” Johnson.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Funky Kong.
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 14% of the total vote.
+Participant #3 is Mees (with 3 swords).
+The users who voted for this participant are: 
+ [None, 'Kibblestone', 'Honch', 'LuigiDawg', 'MangleSlash', 'Mees'] 
+This participant recieved 86% of the total vote.
+Participant #4 is 12 Days of Christmas.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+First place achieved 6 votes.
+The distance between first and second place is 5 votes.
+The victor(s) is/are
+ ['Mees (with 3 swords)'].
+Participant #1 is The Lorax.
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'MangleSlash'] 
+This participant recieved 43% of the total vote.
+Participant #2 is Cat in the Hat (live action).
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 14% of the total vote.
+Participant #3 is The Grinch (post heart-growing).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is A plate of Green Eggs and Ham.
+The users who voted for this participant are: 
+ ['Honch', 'Jackie', None] 
+This participant recieved 43% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['The Lorax', 'A plate of Green Eggs and Ham'].
+Participant #1 is Ken (Barbie).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Quokka'] 
+This participant recieved 22% of the total vote.
+Participant #2 is Ken Masters.
+The users who voted for this participant are: 
+ ['LuigiDawg'] 
+This participant recieved 11% of the total vote.
+Participant #3 is Ken Penders.
+The users who voted for this participant are: 
+ ['Honch'] 
+This participant recieved 11% of the total vote.
+Participant #4 is Kenny (South Park (He WILL Die)).
+The users who voted for this participant are: 
+ [None, 'Matrim', 'MangleSlash', 'FrozenReality', 'Jackie'] 
+This participant recieved 56% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Kenny (South Park (He WILL Die))'].
+Participant #1 is Sherlock Holmes.
+The users who voted for this participant are: 
+ ['Quokka'] 
+This participant recieved 11% of the total vote.
+Participant #2 is Team Chaotix.
+The users who voted for this participant are: 
+ ['Kibblestone', 'LuigiDawg', 'MangleSlash', 'FrozenReality'] 
+This participant recieved 44% of the total vote.
+Participant #3 is Professor Layton.
+The users who voted for this participant are: 
+ [None, 'Matrim', 'Jackie'] 
+This participant recieved 33% of the total vote.
+Participant #4 is A Las Vegas Casino.
+The users who voted for this participant are: 
+ ['Honch'] 
+This participant recieved 11% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Team Chaotix'].
+Participant #1 is Micheal Jackson.
+The users who voted for this participant are: 
+ ['Kibblestone', 'FrozenReality', 'Quokka'] 
+This participant recieved 33% of the total vote.
+Participant #2 is Glover (from the game Glover).
+The users who voted for this participant are: 
+ [None, 'LuigiDawg', 'MangleSlash'] 
+This participant recieved 33% of the total vote.
+Participant #3 is Micheal Glover (Poetry Editor for the Tablet).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is Donald Glover (writing a Star Wars series on Disney+).
+The users who voted for this participant are: 
+ ['Matrim', 'Honch', 'Jackie'] 
+This participant recieved 33% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Micheal Jackson', 'Glover (from the game Glover)', 'Donald Glover (writing a Star Wars series on Disney+)'].
+Participant #1 is Joe Swanson (Family Guy).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Nicole Watterson (Amazing World of Gumball).
+The users who voted for this participant are: 
+ ['Kibblestone', 'InfiNate', 'MangleSlash', 'Mees'] 
+This participant recieved 44% of the total vote.
+Participant #3 is Meta Knight (from Kirby).
+The users who voted for this participant are: 
+ ['Milo'] 
+This participant recieved 11% of the total vote.
+Participant #4 is The Annual Gorilla (Yearly Gorilla with a Shotgun).
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'Jackie', None] 
+This participant recieved 44% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Nicole Watterson (Amazing World of Gumball)', 'The Annual Gorilla (Yearly Gorilla with a Shotgun)'].
+Participant #1 is A plate of Pasta (it is poisoned).
+The users who voted for this participant are: 
+ ['Honch', 'MangleSlash'] 
+This participant recieved 29% of the total vote.
+Participant #2 is Super Mario.
+The users who voted for this participant are: 
+ ['Milo'] 
+This participant recieved 14% of the total vote.
+Participant #3 is Gordon Ramsay.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Mahoraga'] 
+This participant recieved 29% of the total vote.
+Participant #4 is The Population of Rome, Italy.
+The users who voted for this participant are: 
+ ['Matrim', 'Jackie'] 
+This participant recieved 29% of the total vote.
+First place achieved 2 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['A plate of Pasta (it is poisoned)', 'Gordon Ramsay', 'The Population of Rome, Italy'].
+Participant #1 is Easter Bunny.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Tooth Fairy.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is Queen of England.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'InfiNate', 'LuigiDawg', 'Mahoraga', None] 
+This participant recieved 55% of the total vote.
+Participant #4 is Silksong.
+The users who voted for this participant are: 
+ ['Honch', 'MangleSlash', 'FrozenReality', 'Mees', 'Jackie'] 
+This participant recieved 45% of the total vote.
+First place achieved 6 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Queen of England'].
+Participant #1 is The Green Bay Packers.
+The users who voted for this participant are: 
+ ['Mees'] 
+This participant recieved 9% of the total vote.
+Participant #2 is Magneto.
+The users who voted for this participant are: 
+ ['Mahoraga'] 
+This participant recieved 9% of the total vote.
+Participant #3 is Every main character in Chrono Trigger.
+The users who voted for this participant are: 
+ ['Matrim', 'Honch', 'Milo'] 
+This participant recieved 27% of the total vote.
+Participant #4 is Popeye (with infinite Spinach).
+The users who voted for this participant are: 
+ ['Kibblestone', 'InfiNate', 'LuigiDawg', 'MangleSlash', 'Jackie', None] 
+This participant recieved 55% of the total vote.
+First place achieved 6 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Popeye (with infinite Spinach)'].
+Participant #1 is Frank Sinatra.
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'FrozenReality'] 
+This participant recieved 43% of the total vote.
+Participant #2 is Victor Frankenstein.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is Frank Reynolds (played by Danny Devito).
+The users who voted for this participant are: 
+ ['Kibblestone', 'LuigiDawg', 'MangleSlash'] 
+This participant recieved 43% of the total vote.
+Participant #4 is Frankfurter.
+The users who voted for this participant are: 
+ ['Mees'] 
+This participant recieved 14% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Frank Sinatra', 'Frank Reynolds (played by Danny Devito)'].
+Participant #1 is Link (Breath of the Wild).
+The users who voted for this participant are: 
+ ['FrozenReality'] 
+This participant recieved 11% of the total vote.
+Participant #2 is Link (A Link to the Past).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Mees'] 
+This participant recieved 22% of the total vote.
+Participant #3 is Link (The Faces of Evil).
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'LuigiDawg'] 
+This participant recieved 33% of the total vote.
+Participant #4 is Link Cable (Four Swords Adventures).
+The users who voted for this participant are: 
+ ['Honch', 'MangleSlash', 'Jackie'] 
+This participant recieved 33% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Link (The Faces of Evil)', 'Link Cable (Four Swords Adventures)'].
+Participant #1 is Guy Fieri.
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'Honch', 'Jackie'] 
+This participant recieved 44% of the total vote.
+Participant #2 is Samus (Metroid).
+The users who voted for this participant are: 
+ ['Kibblestone', 'InfiNate'] 
+This participant recieved 22% of the total vote.
+Participant #3 is Ash Ketchum (with ALL of his Pokemon).
+The users who voted for this participant are: 
+ ['MangleSlash'] 
+This participant recieved 11% of the total vote.
+Participant #4 is The Iceberg that sunk the Titanic.
+The users who voted for this participant are: 
+ ['FrozenReality', 'Mees'] 
+This participant recieved 22% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Guy Fieri'].
+Participant #1 is Bugs Bunny.
+The users who voted for this participant are: 
+ ['Kibblestone', 'InfiNate', 'Honch', 'MangleSlash', 'Jackie'] 
+This participant recieved 56% of the total vote.
+Participant #2 is Anton (AntonBLAST).
+The users who voted for this participant are: 
+ ['LuigiDawg', 'Milo'] 
+This participant recieved 22% of the total vote.
+Participant #3 is Vegeta (Super Saiyan God Super Saiyan).
+The users who voted for this participant are: 
+ ['Mahoraga'] 
+This participant recieved 11% of the total vote.
+Participant #4 is Squid Games.
+The users who voted for this participant are: 
+ ['Matrim'] 
+This participant recieved 11% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Bugs Bunny'].
+Participant #1 is Leonard (Big Bang Theory).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is A group of Monster Hunters.
+The users who voted for this participant are: 
+ ['Matrim', 'Mahoraga', 'MangleSlash', 'FrozenReality'] 
+This participant recieved 36% of the total vote.
+Participant #3 is Morshu (he has Lamp Oil, Rope, AND Bombs).
+The users who voted for this participant are: 
+ ['Kibblestone', 'InfiNate', 'Honch', 'LuigiDawg', 'ultra robin', 'Jackie', None] 
+This participant recieved 64% of the total vote.
+Participant #4 is A class of Kindergarteners.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+First place achieved 7 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Morshu (he has Lamp Oil, Rope, AND Bombs)'].
+Participant #1 is Harrison Ford.
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 11% of the total vote.
+Participant #2 is Dr. Wario.
+The users who voted for this participant are: 
+ ['Honch'] 
+This participant recieved 11% of the total vote.
+Participant #3 is A Taco Bell Employee.
+The users who voted for this participant are: 
+ ['LuigiDawg', 'Milo', 'ultra robin'] 
+This participant recieved 33% of the total vote.
+Participant #4 is 7 Nuclear Missile Strikes.
+The users who voted for this participant are: 
+ ['Matrim', 'MangleSlash', 'Jackie', 'Ronku'] 
+This participant recieved 44% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['7 Nuclear Missile Strikes'].
+Participant #1 is Yoko Ono with a Megaphone.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Honch'] 
+This participant recieved 29% of the total vote.
+Participant #2 is Rathalos.
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'MangleSlash'] 
+This participant recieved 43% of the total vote.
+Participant #3 is The first YouTuber that comes to your mind.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is Hollow Knight.
+The users who voted for this participant are: 
+ ['Mees', 'Jackie'] 
+This participant recieved 29% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Rathalos'].
+Participant #1 is Rocket Racoon (no Groot, yes Gun).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'InfiNate'] 
+This participant recieved 43% of the total vote.
+Participant #2 is Donkey Kong (but really fancy today).
+The users who voted for this participant are: 
+ ['LuigiDawg'] 
+This participant recieved 14% of the total vote.
+Participant #3 is Santa Claus (in his Sleigh).
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 14% of the total vote.
+Participant #4 is Tumblr.
+The users who voted for this participant are: 
+ ['Honch', 'MangleSlash'] 
+This participant recieved 29% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Rocket Racoon (no Groot, yes Gun)'].
+Participant #1 is Summoning Salt.
+The users who voted for this participant are: 
+ ['InfiNate', 'Monark'] 
+This participant recieved 25% of the total vote.
+Participant #2 is Usopp.
+The users who voted for this participant are: 
+ ['Matrim', 'Honch'] 
+This participant recieved 25% of the total vote.
+Participant #3 is Parallel 5ths (this is a music joke).
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 12% of the total vote.
+Participant #4 is Super Mario 64 (for the Nintendo 64).
+The users who voted for this participant are: 
+ ['Kibblestone', 'LuigiDawg', 'MangleSlash'] 
+This participant recieved 38% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Super Mario 64 (for the Nintendo 64)'].
+Participant #1 is Pikachu.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim'] 
+This participant recieved 25% of the total vote.
+Participant #2 is Lucario.
+The users who voted for this participant are: 
+ ['LuigiDawg'] 
+This participant recieved 12% of the total vote.
+Participant #3 is Jigglypuff (with a Marker).
+The users who voted for this participant are: 
+ ['Honch'] 
+This participant recieved 12% of the total vote.
+Participant #4 is Mewtwo (from the Genesect Movie).
+The users who voted for this participant are: 
+ ['InfiNate', 'MangleSlash', 'Monark', 'Jackie'] 
+This participant recieved 50% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Mewtwo (from the Genesect Movie)'].
+Participant #1 is Seth MacFarlane.
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 12% of the total vote.
+Participant #2 is Seth Rogen.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim'] 
+This participant recieved 25% of the total vote.
+Participant #3 is Seth (Street Fighter).
+The users who voted for this participant are: 
+ ['LuigiDawg', 'MangleSlash', 'Monark'] 
+This participant recieved 38% of the total vote.
+Participant #4 is The Sith.
+The users who voted for this participant are: 
+ ['InfiNate', 'Honch'] 
+This participant recieved 25% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Seth (Street Fighter)'].
+Participant #1 is The main cast of Seinfeld.
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 11% of the total vote.
+Participant #2 is The main cast of JoJo Part 4.
+The users who voted for this participant are: 
+ ['Matrim', 'Honch', 'MangleSlash', 'Mees', 'Jackie'] 
+This participant recieved 56% of the total vote.
+Participant #3 is The main cast of Teen Titans.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is Rainbow Road (Mario Kart Wii).
+The users who voted for this participant are: 
+ ['LuigiDawg', 'Milo', 'Chaspyr'] 
+This participant recieved 33% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['The main cast of JoJo Part 4'].
+Participant #1 is Fix-It Felix Jr..
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Toon Link.
+The users who voted for this participant are: 
+ ['InfiNate', 'Honch'] 
+This participant recieved 22% of the total vote.
+Participant #3 is The Ghostbusters.
+The users who voted for this participant are: 
+ ['Milo'] 
+This participant recieved 11% of the total vote.
+Participant #4 is A really cool guy with a Trombone.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'LuigiDawg', 'MangleSlash', 'Mees', 'Jackie'] 
+This participant recieved 67% of the total vote.
+First place achieved 6 votes.
+The distance between first and second place is 4 votes.
+The victor(s) is/are
+ ['A really cool guy with a Trombone'].
+Participant #1 is Mario (Santa Outfit).
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 11% of the total vote.
+Participant #2 is Mario (but currently getting his ass roasted by Bowser).
+The users who voted for this participant are: 
+ [None, 'Mees'] 
+This participant recieved 22% of the total vote.
+Participant #3 is Paper Mario.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Milo'] 
+This participant recieved 22% of the total vote.
+Participant #4 is Mario (played by Lou Albano).
+The users who voted for this participant are: 
+ ['InfiNate', 'Honch', 'LuigiDawg', 'MangleSlash'] 
+This participant recieved 44% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Mario (played by Lou Albano)'].
+Participant #1 is The Flash.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Deid Mann (Ace Attorney).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is The Rock (his contract literally says he can’t lose).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'Jackie'] 
+This participant recieved 43% of the total vote.
+Participant #4 is A Cheeto that looks like Charizard.
+The users who voted for this participant are: 
+ ['InfiNate', 'LuigiDawg', 'Milo', 'MangleSlash'] 
+This participant recieved 57% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['A Cheeto that looks like Charizard'].
+Participant #1 is Homer Simpson.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Jackie'] 
+This participant recieved 25% of the total vote.
+Participant #2 is Mega Man.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is Dr. Doofenshmirtz.
+The users who voted for this participant are: 
+ ['InfiNate', 'LuigiDawg', 'Milo', 'MangleSlash', 'Mees'] 
+This participant recieved 62% of the total vote.
+Participant #4 is A guy with a Steel Pipe and infinite Rocks.
+The users who voted for this participant are: 
+ ['Matrim'] 
+This participant recieved 12% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Dr. Doofenshmirtz'].
+Participant #1 is Markiplier.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'MangleSlash', 'FrozenReality', 'Monark', 'Jackie'] 
+This participant recieved 75% of the total vote.
+Participant #2 is CatDog.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is Milo.
+The users who voted for this participant are: 
+ ['LuigiDawg', 'Mees'] 
+This participant recieved 25% of the total vote.
+Participant #4 is A suspicious White Van.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+First place achieved 6 votes.
+The distance between first and second place is 4 votes.
+The victor(s) is/are
+ ['Markiplier'].
+Participant #1 is Shrek (Human Form).
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 12% of the total vote.
+Participant #2 is Purple Guy.
+The users who voted for this participant are: 
+ ['FrozenReality', 'Monark', 'Jackie'] 
+This participant recieved 38% of the total vote.
+Participant #3 is Fox McCloud (from Smash Melee).
+The users who voted for this participant are: 
+ ['Mees'] 
+This participant recieved 12% of the total vote.
+Participant #4 is An entire team of English Football Players (and crowd).
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'MangleSlash'] 
+This participant recieved 38% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Purple Guy', 'An entire team of English Football Players (and crowd)'].
+Participant #1 is SpongeBob.
+The users who voted for this participant are: 
+ ['MangleSlash', 'Jackie'] 
+This participant recieved 22% of the total vote.
+Participant #2 is Squidward.
+The users who voted for this participant are: 
+ ['LuigiDawg', 'Milo', 'Mees'] 
+This participant recieved 33% of the total vote.
+Participant #3 is Mr. Krabs.
+The users who voted for this participant are: 
+ ['Kibblestone', 'InfiNate', 'Mahoraga'] 
+This participant recieved 33% of the total vote.
+Participant #4 is Plankton (no machinery, just Plankton).
+The users who voted for this participant are: 
+ ['Matrim'] 
+This participant recieved 11% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Squidward', 'Mr. Krabs'].
+Participant #1 is The Jonas Brothers.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim'] 
+This participant recieved 33% of the total vote.
+Participant #2 is Micheal Jonas (Star Trek).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is Jonas (from the book The Giver).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is Jonas 2 (A genetically modified clone of Ronku).
+The users who voted for this participant are: 
+ ['Honch', 'LuigiDawg', 'Milo', 'Jackie'] 
+This participant recieved 67% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Jonas 2 (A genetically modified clone of Ronku)'].
+Participant #1 is Gru.
+The users who voted for this participant are: 
+ ['Kibblestone', 'InfiNate', 'Milo'] 
+This participant recieved 33% of the total vote.
+Participant #2 is Dr. Robotnik (from the Sonic Cartoons specifically).
+The users who voted for this participant are: 
+ ['Mahoraga', 'MangleSlash', 'Jackie'] 
+This participant recieved 33% of the total vote.
+Participant #3 is 3 Packs of Wolves.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is The Moon.
+The users who voted for this participant are: 
+ ['Matrim', 'Honch', 'LuigiDawg'] 
+This participant recieved 33% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Gru', 'Dr. Robotnik (from the Sonic Cartoons specifically)', 'The Moon'].
+Participant #1 is Medic (TF2).
+The users who voted for this participant are: 
+ ['Honch', 'Blaze', 'Jackie'] 
+This participant recieved 38% of the total vote.
+Participant #2 is Sticks (Sonic Boom).
+The users who voted for this participant are: 
+ ['InfiNate', 'MangleSlash'] 
+This participant recieved 25% of the total vote.
+Participant #3 is The Bee Movie (Literally all of it).
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg'] 
+This participant recieved 25% of the total vote.
+Participant #4 is A man driving a garbage truck.
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 12% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Medic (TF2)'].
+Participant #1 is The Mythbusters.
+The users who voted for this participant are: 
+ ['Kibblestone', 'LuigiDawg'] 
+This participant recieved 22% of the total vote.
+Participant #2 is Donquixote Doflamingo.
+The users who voted for this participant are: 
+ ['Honch'] 
+This participant recieved 11% of the total vote.
+Participant #3 is Professor Layton.
+The users who voted for this participant are: 
+ ['InfiNate', 'Jackie'] 
+This participant recieved 22% of the total vote.
+Participant #4 is YouTube Demonitization.
+The users who voted for this participant are: 
+ ['Matrim', 'Milo', 'MangleSlash', 'Mees'] 
+This participant recieved 44% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['YouTube Demonitization'].
+Participant #1 is Willy Wonka.
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'MangleSlash', 'Jackie'] 
+This participant recieved 57% of the total vote.
+Participant #2 is Sam and Max (Freelance Police).
+The users who voted for this participant are: 
+ ['Kibblestone', 'LuigiDawg'] 
+This participant recieved 29% of the total vote.
+Participant #3 is Cuphead.
+The users who voted for this participant are: 
+ ['Mees'] 
+This participant recieved 14% of the total vote.
+Participant #4 is A cozy little Campfire.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Willy Wonka'].
+Participant #1 is Doug (Up).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Honch', 'Jackie'] 
+This participant recieved 38% of the total vote.
+Participant #2 is Chain Chomp.
+The users who voted for this participant are: 
+ ['InfiNate', 'MangleSlash'] 
+This participant recieved 25% of the total vote.
+Participant #3 is 2 Police Dogs.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is Binky (Arthur).
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'Mees'] 
+This participant recieved 38% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Doug (Up)', 'Binky (Arthur)'].
+Participant #1 is Henry Ford.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Bandanna Waddle Dee.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Mees'] 
+This participant recieved 25% of the total vote.
+Participant #3 is Alpharad Plus.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is The Daily Free-for-all Polls.
+The users who voted for this participant are: 
+ [None, 'Matrim', 'Honch', 'LuigiDawg', 'MangleSlash', 'Jackie'] 
+This participant recieved 75% of the total vote.
+First place achieved 6 votes.
+The distance between first and second place is 4 votes.
+The victor(s) is/are
+ ['The Daily Free-for-all Polls'].
+Participant #1 is John Lennon.
+The users who voted for this participant are: 
+ ['MangleSlash', 'Mees'] 
+This participant recieved 22% of the total vote.
+Participant #2 is Paul McCartney.
+The users who voted for this participant are: 
+ ['InfiNate', 'Honch'] 
+This participant recieved 22% of the total vote.
+Participant #3 is George Harrison.
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg'] 
+This participant recieved 22% of the total vote.
+Participant #4 is Ringo Starr.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Milo', 'Jackie'] 
+This participant recieved 33% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Ringo Starr'].
+Participant #1 is Jeff Goldblum.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Mees'] 
+This participant recieved 25% of the total vote.
+Participant #2 is Jeff (EarthBound).
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'Honch', 'LuigiDawg', 'MangleSlash'] 
+This participant recieved 62% of the total vote.
+Participant #3 is Jeff Bezos.
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 12% of the total vote.
+Participant #4 is JIF Peanut Butter.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Jeff (EarthBound)'].
+Participant #1 is Satoru Iwata.
+The users who voted for this participant are: 
+ [None, 'Matrim', 'Honch', 'LuigiDawg'] 
+This participant recieved 44% of the total vote.
+Participant #2 is 20 Red Pikmin.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Milo', 'MangleSlash', 'Mees'] 
+This participant recieved 44% of the total vote.
+Participant #3 is Pyra (Xenoblade).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is A Bar.
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 11% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Satoru Iwata', '20 Red Pikmin'].
+Participant #1 is Frankenstein's Monster.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'Jackie'] 
+This participant recieved 33% of the total vote.
+Participant #2 is Godot (Ace Attorney).
+The users who voted for this participant are: 
+ ['LuigiDawg'] 
+This participant recieved 11% of the total vote.
+Participant #3 is Chowder.
+The users who voted for this participant are: 
+ [None, 'Honch', 'Milo', 'MangleSlash', 'Mees'] 
+This participant recieved 56% of the total vote.
+Participant #4 is Iowa.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Chowder'].
+Participant #1 is Ronald McDonald.
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 14% of the total vote.
+Participant #2 is Undyne (Undertale).
+The users who voted for this participant are: 
+ [None] 
+This participant recieved 14% of the total vote.
+Participant #3 is Wii Sports Matt.
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'Mees', 'Jackie'] 
+This participant recieved 57% of the total vote.
+Participant #4 is Clifford the Big Red Dog.
+The users who voted for this participant are: 
+ ['Honch'] 
+This participant recieved 14% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Wii Sports Matt'].
+Participant #1 is Daft Punk.
+The users who voted for this participant are: 
+ ['Matrim', 'LuigiDawg', 'Milo', 'MangleSlash'] 
+This participant recieved 50% of the total vote.
+Participant #2 is Captain N (Game Master).
+The users who voted for this participant are: 
+ ['Jackie'] 
+This participant recieved 12% of the total vote.
+Participant #3 is Bonald.
+The users who voted for this participant are: 
+ ['InfiNate', 'Honch'] 
+This participant recieved 25% of the total vote.
+Participant #4 is Death.
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 12% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Daft Punk'].
+Participant #1 is Charles Martinet.
+The users who voted for this participant are: 
+ ['Honch', 'LuigiDawg', 'Jackie'] 
+This participant recieved 38% of the total vote.
+Participant #2 is Yu (Persona 4).
+The users who voted for this participant are: 
+ ['MangleSlash'] 
+This participant recieved 12% of the total vote.
+Participant #3 is Among Us Crewmate.
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'Mees'] 
+This participant recieved 38% of the total vote.
+Participant #4 is The entire Worms franchise.
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 12% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Charles Martinet', 'Among Us Crewmate'].
+Participant #1 is The Harlem Globe Trotters.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Bomberman.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is An Apple Tree.
+The users who voted for this participant are: 
+ ['LuigiDawg', 'Mees', 'Jackie'] 
+This participant recieved 38% of the total vote.
+Participant #4 is The Cross (the specific one Jesus was nailed to).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'InfiNate', 'Honch', 'MangleSlash'] 
+This participant recieved 62% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['The Cross (the specific one Jesus was nailed to)'].
+Participant #1 is Sonic the Hedgehog (1991, Sega Genesis).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Sonic the Hedgehog (2006, Game Boy Advance).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Mees'] 
+This participant recieved 25% of the total vote.
+Participant #3 is Sonic the Hedgehog (2006, XBox/Playstation).
+The users who voted for this participant are: 
+ ['InfiNate', 'Honch', 'LuigiDawg', 'MangleSlash'] 
+This participant recieved 50% of the total vote.
+Participant #4 is Sonic the Hedgehog (the movie).
+The users who voted for this participant are: 
+ ['Matrim', 'Jackie'] 
+This participant recieved 25% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Sonic the Hedgehog (2006, XBox/Playstation)'].
+Participant #1 is Scott Lang.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Scott (Ninjago).
+The users who voted for this participant are: 
+ ['InfiNate'] 
+This participant recieved 11% of the total vote.
+Participant #3 is Scott Wozniak.
+The users who voted for this participant are: 
+ ['LuigiDawg'] 
+This participant recieved 11% of the total vote.
+Participant #4 is Scotland.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'Honch', 'MangleSlash', 'FrozenReality', 'Mees', 'Jackie'] 
+This participant recieved 78% of the total vote.
+First place achieved 7 votes.
+The distance between first and second place is 6 votes.
+The victor(s) is/are
+ ['Scotland'].
+Participant #1 is Bart Simpson.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'Honch'] 
+This participant recieved 33% of the total vote.
+Participant #2 is Ridley (Metroid).
+The users who voted for this participant are: 
+ ['InfiNate', 'Mees'] 
+This participant recieved 22% of the total vote.
+Participant #3 is Blaze the Cat.
+The users who voted for this participant are: 
+ ['LuigiDawg', 'Milo'] 
+This participant recieved 22% of the total vote.
+Participant #4 is A factory that materializes Bananas (which are DEADLY).
+The users who voted for this participant are: 
+ ['MangleSlash', 'Jackie'] 
+This participant recieved 22% of the total vote.
+First place achieved 3 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Bart Simpson'].
+Participant #1 is Giorno Giovanna.
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'MangleSlash', 'Jackie'] 
+This participant recieved 40% of the total vote.
+Participant #2 is Jimmy T (WarioWare) and his entire extended family.
+The users who voted for this participant are: 
+ ['Kibblestone', 'LuigiDawg', 'Honch', 'Milo'] 
+This participant recieved 40% of the total vote.
+Participant #3 is Rev. W Awdry.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is The IRS 2.
+The users who voted for this participant are: 
+ [None, 'Mees'] 
+This participant recieved 20% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Giorno Giovanna', 'Jimmy T (WarioWare) and his entire extended family'].
+Participant #1 is Vegeta.
+The users who voted for this participant are: 
+ ['InfiNate', 'Honch', 'FrozenReality', 'Mees', 'Jackie'] 
+This participant recieved 50% of the total vote.
+Participant #2 is Bonald.
+The users who voted for this participant are: 
+ ['LuigiDawg', None] 
+This participant recieved 20% of the total vote.
+Participant #3 is Thanos.
+The users who voted for this participant are: 
+ ['Matrim'] 
+This participant recieved 10% of the total vote.
+Participant #4 is Joem.
+The users who voted for this participant are: 
+ ['Kibblestone', 'MangleSlash'] 
+This participant recieved 20% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Vegeta'].
+Participant #1 is Rock.
+The users who voted for this participant are: 
+ ['FrozenReality', 'Jackie'] 
+This participant recieved 18% of the total vote.
+Participant #2 is Paper.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is Scissors.
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'LuigiDawg', None] 
+This participant recieved 36% of the total vote.
+Participant #4 is Gun.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Honch', 'Milo', 'MangleSlash', 'Mees'] 
+This participant recieved 45% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Gun'].
+Participant #1 is Isaac Newton.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'LuigiDawg', 'Mees', 'Jackie'] 
+This participant recieved 50% of the total vote.
+Participant #2 is Toadette (Super Mario).
+The users who voted for this participant are: 
+ [None, 'FrozenReality'] 
+This participant recieved 20% of the total vote.
+Participant #3 is Boyfriend (Friday Night Funkin).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #4 is All of the Above.
+The users who voted for this participant are: 
+ ['InfiNate', 'Honch', 'MangleSlash'] 
+This participant recieved 30% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Isaac Newton'].
+Participant #1 is Ian Flynn.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Kraid (Metroid).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #3 is Captain Falcon (F-Zero).
+The users who voted for this participant are: 
+ ['InfiNate', 'LuigiDawg', 'Honch', 'Mees', 'Jackie'] 
+This participant recieved 50% of the total vote.
+Participant #4 is Getting Over It (the game).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', None, 'MangleSlash', 'FrozenReality'] 
+This participant recieved 50% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['Captain Falcon (F-Zero)', 'Getting Over It (the game)'].
+Participant #1 is Blinky.
+The users who voted for this participant are: 
+ ['InfiNate', 'LuigiDawg'] 
+This participant recieved 18% of the total vote.
+Participant #2 is Inky.
+The users who voted for this participant are: 
+ [None, 'Mees'] 
+This participant recieved 18% of the total vote.
+Participant #3 is Pinky.
+The users who voted for this participant are: 
+ ['Milo', 'Jackie'] 
+This participant recieved 18% of the total vote.
+Participant #4 is Clyde.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim', 'Honch', 'MangleSlash', 'Monark'] 
+This participant recieved 45% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Clyde'].
+Participant #1 is Bugs Bunny.
+The users who voted for this participant are: 
+ ['Matrim', 'FrozenReality'] 
+This participant recieved 29% of the total vote.
+Participant #2 is Medic TF2.
+The users who voted for this participant are: 
+ ['InfiNate', 'LuigiDawg', 'Milo', 'Mees', 'Jackie'] 
+This participant recieved 71% of the total vote.
+First place achieved 5 votes.
+The distance between first and second place is 3 votes.
+The victor(s) is/are
+ ['Medic TF2'].
+Participant #1 is 4 Glasses of Wine (3 of them are Poisoned).
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Purple Guy.
+The users who voted for this participant are: 
+ ['Milo', 'MangleSlash', 'Mees', 'Jackie'] 
+This participant recieved 44% of the total vote.
+Participant #3 is Goku (with a Heart Virus).
+The users who voted for this participant are: 
+ ['Kibblestone', 'Matrim'] 
+This participant recieved 22% of the total vote.
+Participant #4 is Captain Falcon.
+The users who voted for this participant are: 
+ ['InfiNate', 'Honch', 'LuigiDawg'] 
+This participant recieved 33% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 1 votes.
+The victor(s) is/are
+ ['Purple Guy'].
+Participant #1 is 20 Red Pikmin.
+The users who voted for this participant are: 
+ ['Kibblestone', 'Honch', 'Milo', 'MangleSlash'] 
+This participant recieved 44% of the total vote.
+Participant #2 is Mecha Godzilla.
+The users who voted for this participant are: 
+ ['Mees'] 
+This participant recieved 11% of the total vote.
+Participant #3 is The Population of Rome, Italy.
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'LuigiDawg', 'Jackie'] 
+This participant recieved 44% of the total vote.
+Participant #4 is TF2 Scout's Search History.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 0 votes.
+The victor(s) is/are
+ ['20 Red Pikmin', 'The Population of Rome, Italy'].
+Participant #1 is Thanos.
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate'] 
+This participant recieved 22% of the total vote.
+Participant #2 is An entire English football team (and their crowd).
+The users who voted for this participant are: 
+ ['Honch', 'Jackie'] 
+This participant recieved 22% of the total vote.
+Participant #3 is Jeff (EarthBound).
+The users who voted for this participant are: 
+ ['Kibblestone'] 
+This participant recieved 11% of the total vote.
+Participant #4 is Link (The Faces of Evil).
+The users who voted for this participant are: 
+ ['LuigiDawg', 'MangleSlash', 'FrozenReality', 'Mees'] 
+This participant recieved 44% of the total vote.
+First place achieved 4 votes.
+The distance between first and second place is 2 votes.
+The victor(s) is/are
+ ['Link (The Faces of Evil)'].
+Participant #1 is Lou Albano.
+The users who voted for this participant are: 
+ No Voters 
+This participant recieved 0% of the total vote.
+Participant #2 is Mario, the Idea.
+The users who voted for this participant are: 
+ ['Matrim', 'InfiNate', 'Honch', 'LuigiDawg', 'FrozenReality'] 
+This participant recieved 56% of the total vote.
+Participant #3 is Guy Fieri.
+The users who voted for this participant are: 
+ ['Mees', 'Jackie'] 
+This participant recieved 22% of the total vote.
+Participant #4 is Cheetozard.
+The users who voted for this participant are: 
+ ['Kibblestone', 'MangleSlash'] 
+This participant recieved 22% of the total vote.
