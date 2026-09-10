@@ -45,6 +45,14 @@ parameterField1 = [
 ]
 
 
+t = sp.Symbol('t')
+
+parameterField = [
+    r*sp.cos(theta),
+    r*sp.sin(theta)
+]
+
+
 varList1 = [x,y,z]
 varList2 = [x,y]
 
