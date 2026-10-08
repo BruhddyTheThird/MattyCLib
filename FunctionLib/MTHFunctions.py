@@ -2,6 +2,7 @@ import sympy as sp
 from sympy import diff
 from sys import argv
 import warnings
+import numpy as np
 x, y, z, u, v, w = sp.symbols('x,y,z,u,v,w')
 def InteriorProduct(Array1, Array2):
     """
@@ -175,8 +176,8 @@ def Curl(Field,Point=None,VarList=None):
         curlEval=[i.subs(subs) for i in curl_array]
         return curlEval
 def FindPotentialFnction(Field,VarList=None):
-    if Curl(Field,VarList=VarList)!=[0]*len(Field):
-        raise ValueError('The curl of field:',Field,' is,\n', Curl(Field,VarList=VarList),' not zero, so it is not conservative.\n Therefore such a function does not exist.')
+    if Curl(Field,VarList=VarList)!=np.zeros(len(Field)).tolist():
+        raise ValueError('The curl of field:',Field,' is,', Curl(Field,VarList=VarList),', not zero, so it is not conservative. Therefore such a function does not exist.')
     if VarList is None:
         VarList = [x,y,z]
         warnings.warn('WARNING: Absence of VarList argument might break the output, as variables are set to [x,y,z]!',UserWarning)
