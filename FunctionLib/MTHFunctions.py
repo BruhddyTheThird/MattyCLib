@@ -176,7 +176,7 @@ def Curl(Field,Point=None,VarList=None):
         curlEval=[i.subs(subs) for i in curl_array]
         return curlEval
 def FindPotentialFnction(Field,VarList=None):
-    if Curl(Field,VarList=VarList)!=np.zeros(len(Field)).tolist() or np.zeros(len(Field)+1).tolist():
+    if Curl(Field,VarList=VarList)!=sp.zeros(1,len(Field)).tolist()[0] or sp.zeros(1,len(Field)+1).tolist()[0]:
         raise ValueError('The curl of field:', Field, ' is', Curl(Field,VarList=VarList),' not zero, so it is not conservative. Therefore such a function does not exist.')
     if VarList is None:
         VarList = [x,y,z]
