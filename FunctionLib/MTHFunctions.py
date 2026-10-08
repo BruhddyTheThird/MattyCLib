@@ -176,18 +176,20 @@ def Curl(Field,Point=None,VarList=None):
         curlEval=[i.subs(subs) for i in curl_array]
         return curlEval
 def FindPotentialFnction(Field,VarList=None):
-    if Curl(Field,VarList=VarList)!=sp.zeros(1,len(Field)).tolist()[0] or sp.zeros(1,len(Field)+1).tolist()[0]:
+    a = Curl(Field,VarList=VarList)
+    if a==sp.zeros(1,len(Field)).tolist()[0] or a==sp.zeros(1,len(Field)+1).tolist()[0]:
+        if VarList is None:
+            VarList = [x,y,z]
+            warnings.warn('WARNING: Absence of VarList argument might break the output, as variables are set to [x,y,z]!',UserWarning)
+        NewList = []
+        for f,s in zip(Field,VarList):
+            for i in sp.expand(sp.integrate(f,s)).as_ordered_terms():
+                if i not in NewList:
+                    NewList.append(i)
+        potenExpr = sum([i for i in NewList])
+        return potenExpr
+    else:
         raise ValueError('The curl of field:', Field, ' is', Curl(Field,VarList=VarList),' not zero, so it is not conservative. Therefore such a function does not exist.')
-    if VarList is None:
-        VarList = [x,y,z]
-        warnings.warn('WARNING: Absence of VarList argument might break the output, as variables are set to [x,y,z]!',UserWarning)
-    NewList = []
-    for f,s in zip(Field,VarList):
-        for i in sp.expand(sp.integrate(f,s)).as_ordered_terms():
-            if i not in NewList:
-                NewList.append(i)
-    potenExpr = sum([i for i in NewList])
-    return potenExpr
 def ParametrizeExpr(Expression,MappedArray,VarList=None):
     """
     Substitutes variables in an expression using a mapped array or variable list.
